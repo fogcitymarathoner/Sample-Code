@@ -1,6 +1,10 @@
 Below are 4 pieces of code that are 100% mine and are used on a daily basis,
 
    1. a CakePHP invoice model that's complex state machine for business,
+   https://github.com/fogcitymarathoner/Sample-Code/blob/master/invoice.php
    2. a Rails aggregator view that is simple, elegant and powerful,
+   https://github.com/fogcitymarathoner/Sample-Code/blob/master/aggregator.rb
    3. a single elegant CakePHP controller action,  a custom PayPal checkout for consignment sales that handles multiple-step transactions between 3 parties,
+   https://github.com/fogcitymarathoner/Sample-Code/blob/master/paypal.php
    4. a Python offsite-backup script that zips, encrypts, and ftps folders.
+   https://github.com/fogcitymarathoner/Sample-Code/blob/master/onlinebackup.py
