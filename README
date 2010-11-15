@@ -1,1 +1,6 @@
-README
+Below are 4 pieces of code that are 100% mine and are used on a daily basis,
+
+   1. a CakePHP invoice model that's complex state machine for business,
+   2. a Rails aggregator view that is simple, elegant and powerful,
+   3. a single elegant CakePHP controller action,  a custom PayPal checkout for consignment sales that handles multiple-step transactions between 3 parties,
+   4. a Python offsite-backup script that zips, encrypts, and ftps folders.
